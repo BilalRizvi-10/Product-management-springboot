@@ -1,5 +1,4 @@
 Product Management App
-GitHub stars
 
 A web application for managing products, built using Java Spring Boot for the backend and React for the frontend.
 
@@ -13,8 +12,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/your-username/your-repository.git
-Navigate to the project root folder:
+
 
 
 cd your-repository
